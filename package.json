@@ -17,5 +17,11 @@
                 "path": "./themes/bonfire-color-theme.json"
             }
         ]
+    },
+    "icon": "images/icon.png",
+    "publisher": "cozybonfire",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cozybonfire/bonfire.git"
     }
 }
