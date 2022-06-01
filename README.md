@@ -1,2 +1,3 @@
 # bonfire
-A relaxing and distinct color theme extension for VS Code.
+
+A relaxing and distinct color theme for VS Code.
